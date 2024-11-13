@@ -14,7 +14,8 @@ h2 {
 section {
   color: black;;
   background: #;;
-  pad
-
-
+  padding-top: 80px;
+  paddding-bottom: 80px;
+  diplay: flex; /*tona flexivel = põe um lado do outro */
+  justify-content: center; /*centralizar */
 }
